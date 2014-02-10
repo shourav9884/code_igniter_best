@@ -1,0 +1,77 @@
+@media print {
+
+    div.ticket_bg
+    {
+
+        margin-left: 20%;
+        margin-right: 20%;
+        border:2px solid #1b0202;
+        box-shadow: 5px 5px 4px #888888;
+        padding:10px 40px; 
+        background:#dddddd;
+        width:100%;
+        border-radius:10px;
+        -moz-border-radius:10px; /* Firefox 3.6 and earlier */
+    }
+
+    div.label_for_name
+    {
+        padding-top: 10px;
+        padding-right: 6px;
+        padding-bottom: 25px;
+
+    }
+
+    div.label_for_mobile_num
+    {
+        padding-top: 10px;
+        padding-right: 6px;
+        padding-bottom: 25px;
+
+    }
+
+    div.label_for_time_date_bus_num
+    {
+        padding-top: 10px;
+        padding-right: 6px;
+        padding-bottom: 25px;
+
+    }
+
+
+    td.lebel{
+
+        padding: 10px;
+        font:  bold italic large Palatino, serif;
+        font-size: 18px;
+        text-align: right;
+        color: #000000;
+
+    }
+
+    td.empty-box{
+
+        padding-left: 50px;
+    }
+
+    p.ticket_heading{
+
+        padding: 10px;
+        font:  bold italic larger Palatino, serif;
+        font-size: 24px;
+        text-align: center;
+        text-shadow: 2px 1px 1px #333333;
+        color: #330000
+    }
+
+    table{
+        width: 80%;
+        border: 2px solid;
+        position: relative;
+    }
+
+
+
+
+
+}

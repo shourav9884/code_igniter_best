@@ -1,0 +1,55 @@
+body{
+    overflow-x:hidden;
+    overflow-y:hidden;
+    font-size: 0px;
+}
+#background
+{
+    margin: 0px 0px 20px 0px;
+    padding: 0px 0px 0px 120px;
+    position: absolute;
+    z-index:10;
+}
+#seminar
+{
+    margin: 0px 0px 20px 0px;
+    padding: 410px 0px 0px 390px;
+    position: absolute;
+    z-index:100;
+
+}
+#GamesNsports
+{
+    margin: 0px 0px 20px 0px;
+    padding: 290px 0px 0px 150px;
+    position: absolute;
+    z-index:101;
+}
+#CompetitiveEvents
+{
+    margin: 0px 0px 20px 0px;
+    padding: 95px 0px 0px 330px;
+    position: absolute;
+    z-index:101;
+}
+#Gallery
+{
+    margin: 0px 0px 20px 0px;
+    padding: 270px 0px 0px 900px;
+    position: absolute;
+    z-index:100;
+}
+#AlumniRegistration
+{
+    margin: 0px 0px 20px 0px;
+    padding: 415px 0px 0px 1085px;
+    position: absolute;
+    z-index:99;
+}
+#Publication
+{
+    margin: 0px 0px 20px 0px;
+    padding: 45px 0px 0px 975px;
+    position: absolute;
+    z-index:110;
+}

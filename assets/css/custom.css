@@ -1,0 +1,117 @@
+.jumbotron:after {
+    background: url("../img/bs-docs-masthead-pattern.png") repeat scroll center center transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    left: 0;
+    opacity: 0.4;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.masthead {
+    color: #FFFFFF;
+    margin-bottom: 0;
+    padding: 70px 0 80px;
+}
+.jumbotron {
+    background: linear-gradient(45deg, #020031 0%, #6D3353 100%) repeat scroll 0 0 transparent;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.2) inset, 0 -3px 7px rgba(0, 0, 0, 0.2) inset;
+    color: #FFFFFF;
+    padding: 40px 0;
+    position: relative;
+    text-align: center;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 0 30px rgba(0, 0, 0, 0.075);
+}
+
+.item-1-bg{
+    background: url("../images/competition_bg.png");
+    background-attachment: fixed;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    /*background: url("../images/competition_bg.png") no-repeat scroll center center transparent;*/
+}
+.hero-unit{
+    padding:0px;
+}
+.container-fluid{
+    padding: 5px;
+}
+.notice-board{
+    background: transparent  url(../images/accredit.png) repeat scroll top left;
+    background-position: left -0; 
+    background-color: transparent; padding: 20px
+}
+
+.footer{
+    left: 0;
+    bottom: 0;
+    right:0;
+    margin-bottom: 0;
+    position:  static;
+}
+
+.custom-popup{
+    display:block;
+    position: relative;
+    width: 100%;
+    height:100%;
+    vertical-align: central;
+}
+.popover{
+    display: block;
+    background-image: none;
+    background-color: white;
+    color: black;
+}
+.popover-title{
+    color: black;
+}
+.custom-grid{
+    background: transparent url(../images/white.png);
+}
+
+.focus-image{
+    float: right ;
+}
+
+
+.custom-font{
+    font-family: 'freebooterregular';
+}
+.navbar .navbar-inner{
+    background: transparent  url('../images/accredit.png') repeat scroll top left;
+    background-position: left -0; 
+    background-color: transparent; 
+
+}
+.navbar-inner{
+    background-color: transparent;
+
+}
+.custom-nav{
+    background: transparent  url('../images/accredit.png') repeat scroll top left;
+    background-position: left -0; 
+    background-color: transparent; 
+}
+.dropdown-menu{
+    background: transparent  url('../images/accredit.png') repeat scroll top left;
+    background-position: left -0; 
+    background-color: transparent; 
+    padding: 4px 25px;
+}
+.dropdown-menu > li > a{
+    color: #FFFFFF;
+}
+.preview-image{
+    width: 200px;
+    height: 100px;
+}
+.gallery_slide_show{
+    width:426 px;
+    height: 639px;
+}
+.image-tile{
+    width: 75 px;
+    height: 75px;
+}
